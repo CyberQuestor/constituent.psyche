@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-#NAME=shell
+#NAME=psyche
 
 my_dir="$(dirname "$0")"
 cd $my_dir

@@ -1,4 +1,4 @@
-name := "constituent.shell"
+name := "constituent.psyche"
 
 organization := "org.haystack"
 scalaVersion := "2.11.8"

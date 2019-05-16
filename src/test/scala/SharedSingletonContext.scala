@@ -1,4 +1,4 @@
-package com.hs.haystack.tachyon.constituent.shell
+package com.hs.haystack.tachyon.constituent.psyche
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.scalatest.{BeforeAndAfterAll, Suite}

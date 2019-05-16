@@ -1,4 +1,4 @@
-package com.hs.haystack.tachyon.constituent.shell
+package com.hs.haystack.tachyon.constituent.psyche
 
 import org.apache.predictionio.controller.PPreparator
 import org.apache.predictionio.data.storage.Event
